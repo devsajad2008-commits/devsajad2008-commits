@@ -77,12 +77,23 @@ An image conversion project focused on converting images into the modern WebP fo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsajad2008-commits&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsajad2008-commits&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=devsajad2008-commits&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devsajad2008-commits&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devsajad2008-commits&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=devsajad2008-commits&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
